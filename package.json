@@ -1,0 +1,27 @@
+{
+  "name": "nauka-gita-2-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBakalarski/nauka-gita-2-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBakalarski/nauka-gita-2-new/issues"
+  },
+  "homepage": "https://github.com/DBakalarski/nauka-gita-2-new#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.7"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  }
+}
