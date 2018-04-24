@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/DBakalarski/nauka-gita-2-new#readme",
   "devDependencies": {
-    "browser-sync": "^2.23.7"
+    "browser-sync": "^2.23.7",
+    "nu-html-checker": "^0.1.0"
   },
   "dependencies": {
-    "autoprefixer-cli": "^1.0.0",
-    "nu-html-checker": "^0.1.0"
+    "autoprefixer-cli": "^1.0.0"
   }
 }
